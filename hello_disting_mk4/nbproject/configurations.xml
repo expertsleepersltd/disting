@@ -27,13 +27,13 @@
         <itemPath>../microchip_solutions_v2013-06-15/Microchip/MDD File System/FSIO.c</itemPath>
         <itemPath>../microchip_solutions_v2013-06-15/Microchip/MDD File System/SD-SPI.c</itemPath>
       </logicalFolder>
-      <itemPath>newmain.c</itemPath>
       <itemPath>i2c.c</itemPath>
       <itemPath>calibrate.c</itemPath>
       <itemPath>display.c</itemPath>
       <itemPath>presets.c</itemPath>
       <itemPath>favourites.c</itemPath>
       <itemPath>algorithms.c</itemPath>
+      <itemPath>main.c</itemPath>
     </logicalFolder>
     <logicalFolder name="ExternalFiles"
                    displayName="Important Files"
